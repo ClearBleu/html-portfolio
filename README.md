@@ -1,2 +1,2 @@
 # html-portfolio
-Web development portfolio for Dalton Wright
+Mock Web development portfolio for Dalton Wright
